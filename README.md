@@ -21,4 +21,5 @@ Feature importance plot:
 Model used:
 [XGboost](https://github.com/dmlc/xgboost)
 
-Why i did what i did: will publish soon.
+Why i did what i did: will publish soon
+tell me the publish date
